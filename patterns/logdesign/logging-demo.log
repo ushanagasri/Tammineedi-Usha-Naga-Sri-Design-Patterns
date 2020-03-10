@@ -1,0 +1,23 @@
+2020-03-10 23:45:50 INFO  App:36 - This is bird
+2020-03-10 23:45:50 INFO  App:48 - This is snake
+2020-03-10 23:45:50 INFO  App:26 - Car 
+2020-03-10 23:45:50 INFO  App:52 - Produced
+2020-03-10 23:45:50 INFO  App:58 -  And
+2020-03-10 23:45:50 INFO  App:59 -  Assembled.
+2020-03-10 23:45:50 INFO  App:38 - Bike 
+2020-03-10 23:45:50 INFO  App:52 - Produced
+2020-03-10 23:45:50 INFO  App:58 -  And
+2020-03-10 23:45:50 INFO  App:59 -  Assembled.
+2020-03-10 23:45:50 INFO  App:26 - Sparrow...
+2020-03-10 23:45:50 INFO  App:16 - Flying
+2020-03-10 23:45:50 INFO  App:20 - Chirp Chirp
+2020-03-10 23:45:50 INFO  App:29 - ToyDuck...
+2020-03-10 23:45:50 INFO  App:35 - Squeak
+2020-03-10 23:45:50 INFO  App:31 - BirdAdapter...
+2020-03-10 23:45:50 INFO  App:20 - Chirp Chirp
+2020-03-10 23:45:50 INFO  App:72 - Ready for landing.
+2020-03-10 23:45:50 INFO  App:88 - Landing permission granted.
+2020-03-10 23:45:50 INFO  App:63 - Successfully Landed.
+2020-03-10 23:45:50 INFO  App:89 - Positive : 90
+2020-03-10 23:45:50 INFO  App:43 - Negative : -50
+2020-03-10 23:45:50 INFO  App:66 - Zero : 0
